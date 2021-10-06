@@ -1,0 +1,1 @@
+terms = {'gm', 'wagmi', 'wgmi', 'ngmi', 'BAYC', 'punk', 'PV', 'wltc', 'welikethecats', 'we like the cats', 'we like the', 'MAYC', 'looks rare', 'LL', 'probably nothing', 'up only'}
